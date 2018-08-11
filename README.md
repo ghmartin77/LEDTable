@@ -27,10 +27,10 @@ Connect Four game:
 Snake game:
 ![Snake](assets/10snake.png)
 
-Starship game:
+Starship game (don't get hit by the starships):
 ![Starship](assets/11starships.png)
 
-Pong game:
+Pong game (No, not two balls. Just shot the photo during movement...):
 ![Pong](assets/12pong.png)
 
 Test screen:
@@ -61,17 +61,13 @@ Table bottom:
 ![Table bottom](assets/22bottom.png)
 
 PCB with ESP:
-
 ![ESP](assets/23ESP8266.png)
 
 Capacitive buttons:
-
 ![Buttons](assets/24buttons.png)
 
-Power supply:
-
+Power supply:<br>
 ![Power supply](assets/26powersupply.png)
 
-PCB:
-
+PCB:<br>
 ![PPCB](PCB/LEDTable_PCB.png)
